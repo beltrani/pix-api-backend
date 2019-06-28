@@ -1,0 +1,20 @@
+[
+   {
+      "storeId":"infracommerce",
+      "configHeader":{
+         "headers":{
+            "x-vtex-api-appkey":"vtexappkey-infracommerce-PSLTOG",
+            "x-vtex-api-apptoken":"SZHXLVSAFOIYURFKAIVBOWYOIVHZWVVZBPWWBKVQOSUEPYOUBVDFKXIWBSOPOTDKTJWEUJIQMEMWBUZKHNXBSQOEHAVJWFCVOKLGBJZSMMSGKMUGTDIAVBRDVSXUNZTH"
+         }
+      }
+   },
+   {
+      "storeId":"malwee",
+      "configHeader":{
+         "headers":{
+            "x-vtex-api-appkey":"vtexappkey-malwee-PSLTOG",
+            "x-vtex-api-apptoken":"SZHXLVSAFOIYURFKAIVBOWYOIVHZWVVZBPWWBKVQOSUEPYOUBVDFKXIWBSOPOTDKTJWEUJIQMEMWBUZKHNXBSQOEHAVJWFCVOKLGBJZSMMSGKMUGTDIAVBRDVSXUNZTH"
+         }
+      }
+   }
+]

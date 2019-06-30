@@ -5,11 +5,11 @@ const configHeaders = require('../config/configHeaders');
         
 class product {
     
-    async getProductSpecification(req, res){
-        const getSpecification = `${URL_VTEX_CATALOG}/products/${req.params.id}/specification`;
-        const response = await axios.get(getSpecification, config);
-        return res.json(response.data);
-    }
+    // async getProductSpecification(req, res){
+    //     const getSpecification = `${URL_VTEX_CATALOG}/products/${req.params.id}/specification`;
+    //     const response = await axios.get(getSpecification, config);
+    //     return res.json(response.data);
+    // }
 
     async updateProductSpecification(req, res){
         const updateStatus = [];
